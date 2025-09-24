@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://team55.ru/
+   url: http://www.team55.ru/
  - title: GitHub
    url: https://github.com/team55
 # - title: StackOverflow
@@ -22,7 +22,9 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
+ - Flutter
+ - React Native
+ - React
  - Spring MVC
  - Spring Boot
  - Gradle
